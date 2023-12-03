@@ -1,19 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" >
+<head>
     <script src="aframe.min.js"></script>
-    <!-- we import arjs version without NFT but with marker + location based support -->
     <script src="aframe-ar.js"></script>
-    <body style="margin : 0px; overflow: hidden;">
-        <a-scene embedded arjs>
-        <a-marker preset="hiro">
-            <!-- we use cors proxy to avoid cross-origin problems ATTENTION! you need to set up your server -->
-            <a-entity
-            position="0 0 0"
-            scale="0.05 0.05 0.05"
-            gltf-model="./scene.gltf"
-            ></a-entity>
-        </a-marker>
-        <a-entity camera></a-entity>
-        </a-scene>
-    </body>
+</head>>
+
+<a-scene embedded arjs>
+    <a-marker markerhandler preset="hiro">
+        <a-box id="MyBox" position='0 0.5 0' material='opacity: 0.5;' color="red" ></a-box>
+    </a-marker>
+    <a-entity camera></a-entity>
+</a-scene>
+
+<script src="script.js"></script>
+</body>
 </html>
+
