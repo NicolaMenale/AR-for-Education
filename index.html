@@ -11,12 +11,11 @@
         function handleMessage(event) {
             if (event.data === 'markerFound') {
                 console.log("Ricevuto Found");
-                document.getElementById("testo1").style.visibility = "visible";
-                console.log(document.getElementById("testo1").style.display)
+                document.getElementById("testo1").style.display = "block";
             }
             else if (event.data === 'markerLost') {
                 console.log("Ricevuto Lost");
-                document.getElementById("testo1").style.visibility = "hidden";
+                document.getElementById("testo1").style.display = "none";
             }
         }
     </script>
@@ -25,8 +24,8 @@
 </head>
 <body>
 
-<div id="ar" class="center">
-        <iframe src="ar.html" width="100%" height="500rem"></iframe>
+<div class="container">
+        <iframe class="responsive-iframe" src="ar.html"></iframe>
 </div>
 
 <div id="testo1" class="testo1">
