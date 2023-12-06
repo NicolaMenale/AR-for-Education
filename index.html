@@ -4,23 +4,6 @@
     <meta charset="UTF-8">
     <title>AR for Education</title>
     <link rel="stylesheet" href="style.css">
-
-
-    <script type="text/javascript">
-        window.addEventListener('message', handleMessage);
-        function handleMessage(event) {
-            if (event.data === 'markerFound') {
-                console.log("Ricevuto Found");
-                document.getElementById("testo1").style.display = "block";
-            }
-            else if (event.data === 'markerLost') {
-                console.log("Ricevuto Lost");
-                document.getElementById("testo1").style.display = "none";
-            }
-        }
-    </script>
-
-
 </head>
 <body>
 
@@ -28,7 +11,7 @@
         <iframe class="responsive-iframe" src="ar.html"></iframe>
 </div>
 
-<div id="testo1" class="testo1">
+<div id="marker1">
 <p> Il cuore è il perno della circolazione sanguigna, il motore che consente di trasportare l'ossigeno ricevuto dai polmoni alle cellule di tessuti e organi per nutrirli e di scambiare l'anidride carbonica, che rappresenta uno scarto dell'attività metabolica delle cellule, a livello dei polmoni.
 
     Che cos'è il cuore?
@@ -47,27 +30,31 @@
 
     Nel cuore sono presenti quattro valvole, che come dei "rubinetti" controllano l'unidirezionalità del flusso del sangue tra atri e ventricoli (valvola tricuspide e valvola mitrale, dette valvole atrioventricolari) e tra il cuore e i vasi sanguigni (valvola polmonare e valvola aortica, dette valvole semilunari).
     I vasi sanguigni che comunicano con il cuore garantiscono lo scambio tra ossigeno e anidride carbonica da e verso tessuti e organi: sono le vene (cava inferiore e cava superiore) che portano il sangue carico di anidride carbonica dagli organi e dai tessuti al cuore; l'arteria polmonare e la vena polmonare che garantiscono il flusso di sangue tra cuore e polmoni; l'aorta, l'arteria principale del corpo umano, che riporta e distribuisce il sangue carico di ossigeno all'organismo.
-
-    Fanno parte del cuore:
-    Atrio destro
-    Atrio sinistro
-    Valvola aortica
-    Valvola mitrale
-    Valvola polmonare
-    Valvola tricuspide
-    Ventricolo destro
-    Ventricolo sinistro
-    A cosa serve il cuore?
-
-    Il cuore è una pompa: la sua funzione principale è portare il sangue ricco di ossigeno al resto del corpo, a cellule, tessuti e organi, in modo da nutrirli, e ricevere il sangue carico di anidride carbonica da inviare ai polmoni dove avviene lo scambio con l'ossigeno.
-    Il sangue ossigenato (sangue arterioso) viaggia nell'organismo verso organi e tessuti attraverso l'aorta, l'arteria che porta il nutrimento a tutto il corpo suddividendosi in rami e capillari sempre più piccoli. Il sangue con le scorie di anidride carbonica, lo scarto dell'attività metabolica delle cellule, torna al cuore attraverso le vene cave per "ricaricarsi" di ossigeno. Durante l'attività fisica il cuore è in grado di pompare fino a 20-30 litri di sangue al minuto per assicurare il maggior fabbisogno di sangue da parte dei muscoli; a riposo il cuore fornisce circa 5 litri di sangue ossigenato al minuto. La pressione considerata ottimale è compresa tra 130 (sistolica o alta) e 80 (diastolica o bassa) mmHg.
-    Il cuore garantisce questo ciclo continuo attraverso movimenti coordinati. Il ciclo cardiaco si compone, infatti, di due fasi che si ripetono in media 70-80 volte al minuto a riposo: una fase di rilassamento (diastole) e una di contrazione (sistole). La circolazione si fonda sulla diversa pressione che il sangue esercita sulle strutture cardiache, provocandone la chiusura per evitare il flusso retrogrado.
-    Durante la fase di diastole, le valvole tra atri e ventricoli sono aperte, la muscolatura delle camere è rilassata e il sangue scorre liberamente tra camere e atri. In questa fase le valvole semilunari sono chiuse, impedendo che il sangue entri nei letti vascolari.
-    Durante la sistole, atri e ventricoli si contraggono in maniera coordinata: prima gli atri (sistole atriale) e poi i ventricoli (sistole ventricolare). Nella contrazione ventricolare la pressione del sangue spinge l'alto le valvole atrio-ventricolari e ne provoca la chiusura, non permettendo che il sangue torni negli atri, e il sangue viene pompato nelle vene effluenti, vale a dire quelle attraverso il quale il sangue esce dal cuore.
-    Anche il cuore ha bisogno di essere "nutrito". Questa funzione spetta alle coronarie (più precisamente arterie coronarie) che irrorano di sangue ricco di ossigeno il muscolo cardiaco. Quando il miocardio non viene irrorato del tutto o non viene irrorato a sufficienza, a causa di un restringimento delle coronarie e di altri fattori concomitanti, il cuore e i suoi tessuti soffrono per la mancanza di ossigeno.
-    Si parla in questi casi di ischemia del miocardio (cardiopatia ischemica o ischemia miocardica) che si concretizza nel temuto infarto del miocardio (o sindrome coronarica acuta). Altre patologie che possono colpire il cuore sono di origine infiammatoria, lesioni vallvolari e problemi della conduzione nervosa come l'aritmia.
 </p>
 </div>
 
+<div id="marker2">
+    <p> Fanno parte del cuore:
+        Atrio destro
+        Atrio sinistro
+        Valvola aortica
+        Valvola mitrale
+        Valvola polmonare
+        Valvola tricuspide
+        Ventricolo destro
+        Ventricolo sinistro
+        A cosa serve il cuore?
+
+        Il cuore è una pompa: la sua funzione principale è portare il sangue ricco di ossigeno al resto del corpo, a cellule, tessuti e organi, in modo da nutrirli, e ricevere il sangue carico di anidride carbonica da inviare ai polmoni dove avviene lo scambio con l'ossigeno.
+        Il sangue ossigenato (sangue arterioso) viaggia nell'organismo verso organi e tessuti attraverso l'aorta, l'arteria che porta il nutrimento a tutto il corpo suddividendosi in rami e capillari sempre più piccoli. Il sangue con le scorie di anidride carbonica, lo scarto dell'attività metabolica delle cellule, torna al cuore attraverso le vene cave per "ricaricarsi" di ossigeno. Durante l'attività fisica il cuore è in grado di pompare fino a 20-30 litri di sangue al minuto per assicurare il maggior fabbisogno di sangue da parte dei muscoli; a riposo il cuore fornisce circa 5 litri di sangue ossigenato al minuto. La pressione considerata ottimale è compresa tra 130 (sistolica o alta) e 80 (diastolica o bassa) mmHg.
+        Il cuore garantisce questo ciclo continuo attraverso movimenti coordinati. Il ciclo cardiaco si compone, infatti, di due fasi che si ripetono in media 70-80 volte al minuto a riposo: una fase di rilassamento (diastole) e una di contrazione (sistole). La circolazione si fonda sulla diversa pressione che il sangue esercita sulle strutture cardiache, provocandone la chiusura per evitare il flusso retrogrado.
+        Durante la fase di diastole, le valvole tra atri e ventricoli sono aperte, la muscolatura delle camere è rilassata e il sangue scorre liberamente tra camere e atri. In questa fase le valvole semilunari sono chiuse, impedendo che il sangue entri nei letti vascolari.
+        Durante la sistole, atri e ventricoli si contraggono in maniera coordinata: prima gli atri (sistole atriale) e poi i ventricoli (sistole ventricolare). Nella contrazione ventricolare la pressione del sangue spinge l'alto le valvole atrio-ventricolari e ne provoca la chiusura, non permettendo che il sangue torni negli atri, e il sangue viene pompato nelle vene effluenti, vale a dire quelle attraverso il quale il sangue esce dal cuore.
+        Anche il cuore ha bisogno di essere "nutrito". Questa funzione spetta alle coronarie (più precisamente arterie coronarie) che irrorano di sangue ricco di ossigeno il muscolo cardiaco. Quando il miocardio non viene irrorato del tutto o non viene irrorato a sufficienza, a causa di un restringimento delle coronarie e di altri fattori concomitanti, il cuore e i suoi tessuti soffrono per la mancanza di ossigeno.
+        Si parla in questi casi di ischemia del miocardio (cardiopatia ischemica o ischemia miocardica) che si concretizza nel temuto infarto del miocardio (o sindrome coronarica acuta). Altre patologie che possono colpire il cuore sono di origine infiammatoria, lesioni vallvolari e problemi della conduzione nervosa come l'aritmia.
+    </p>
+</div>
+
+<script src="script_index.js"></script>
 </body>
 </html>

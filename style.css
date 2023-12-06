@@ -16,7 +16,7 @@
     height: 100%;
 }
 
-#testo1 {
+#marker1, #marker2 {
     display: none;
     margin: 30px;
     border-radius: 6px;
