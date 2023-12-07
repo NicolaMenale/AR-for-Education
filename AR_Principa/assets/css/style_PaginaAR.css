@@ -306,6 +306,7 @@ footer .line {
     overflow: hidden;
     width: 80%;
     padding-top: 50%;
+
 }
 
 .responsive-iframe {
@@ -320,12 +321,4 @@ footer .line {
 
 #marker1, #marker2 {
     display: none;
-    margin: 30px;
-    border-radius: 6px;
-    border: 6px solid burlywood;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    width: 40%;
-    position: relative;
-    left: 55%;
 }
