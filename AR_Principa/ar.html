@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <script src="aframe.min.js"></script>
+    <script src="aframe-ar.js"></script>
+</head>
+<body>
+<a-scene embedded arjs>
+
+    <a-marker preset="hiro" id="marker1">
+        <a-box id="MyBox" position='0 0.5 0' material='opacity: 0.5;' color="red" ></a-box>
+    </a-marker>
+
+    <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/textures/pattern-marker2.patt" id="marker2">
+        <a-sphere id="MySphere" position='0 0.5 0' material='opacity: 0.5;' color="red"></a-sphere>
+    </a-marker>
+
+    <a-entity camera></a-entity>
+</a-scene>
+
+<script src="assets/js/script_ar.js"></script>
+</body>
+</html>
+
