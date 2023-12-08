@@ -51,10 +51,8 @@ container.addEventListener("mouseleave", (e) => {
 
 
 function dwAll(){
-  /* const e= document.getElementsByClassName("dw")
+  const e= document.getElementsByClassName("dw")
   for (let d of e){
     d.click()
-  }*/
-
-  window.open("assets/images-marker/pattern-IMG_0144.png", "_self")
+  }
 }

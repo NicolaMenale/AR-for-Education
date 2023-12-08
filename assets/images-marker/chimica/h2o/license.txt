@@ -1,0 +1,11 @@
+Model Information:
+* title:	Water molecule (молекула воды)
+* source:	https://sketchfab.com/3d-models/water-molecule-27d7dd1eb523467e8570ee778d46877d
+* author:	decay_dance (https://sketchfab.com/decay_dance)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Water molecule (молекула воды)" (https://sketchfab.com/3d-models/water-molecule-27d7dd1eb523467e8570ee778d46877d) by decay_dance (https://sketchfab.com/decay_dance) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
