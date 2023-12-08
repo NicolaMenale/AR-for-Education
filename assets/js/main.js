@@ -48,3 +48,13 @@ container.addEventListener("mouseleave", (e) => {
   sizes.style.transform = "translateZ(0px)";
   purchase.style.transform = "translateZ(0px)";
 });
+
+
+function dwAll(){
+  /* const e= document.getElementsByClassName("dw")
+  for (let d of e){
+    d.click()
+  }*/
+
+  window.open("assets/images-marker/pattern-IMG_0144.png", "_self")
+}
