@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sinus Curve
+* source:	https://sketchfab.com/3d-models/sinus-curve-cfb30a8333dd43baa95f0ba95ec2e997
+* author:	smice (https://sketchfab.com/smice)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sinus Curve" (https://sketchfab.com/3d-models/sinus-curve-cfb30a8333dd43baa95f0ba95ec2e997) by smice (https://sketchfab.com/smice) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
