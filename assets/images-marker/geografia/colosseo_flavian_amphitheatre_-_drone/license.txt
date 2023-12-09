@@ -1,0 +1,11 @@
+Model Information:
+* title:	Colosseo (Flavian Amphitheatre) - Drone
+* source:	https://sketchfab.com/3d-models/colosseo-flavian-amphitheatre-drone-73c497e1f4954da0aaa54bf2918bc3c9
+* author:	gabriele.l (https://sketchfab.com/gabriele.l)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Colosseo (Flavian Amphitheatre) - Drone" (https://sketchfab.com/3d-models/colosseo-flavian-amphitheatre-drone-73c497e1f4954da0aaa54bf2918bc3c9) by gabriele.l (https://sketchfab.com/gabriele.l) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

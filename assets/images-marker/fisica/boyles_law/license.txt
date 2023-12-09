@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boyle's Law
+* source:	https://sketchfab.com/3d-models/boyles-law-970200c989c147d1baa2b2a3e69b62c4
+* author:	Vera4art (https://sketchfab.com/Elvera.Viljoen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boyle's Law" (https://sketchfab.com/3d-models/boyles-law-970200c989c147d1baa2b2a3e69b62c4) by Vera4art (https://sketchfab.com/Elvera.Viljoen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

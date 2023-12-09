@@ -1,0 +1,11 @@
+Model Information:
+* title:	Klein Bottle 2
+* source:	https://sketchfab.com/3d-models/klein-bottle-2-eecfee26bbe54bfc9cb8e1904f33c0b7
+* author:	Laura Salas (https://sketchfab.com/lalala.laura)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Klein Bottle 2" (https://sketchfab.com/3d-models/klein-bottle-2-eecfee26bbe54bfc9cb8e1904f33c0b7) by Laura Salas (https://sketchfab.com/lalala.laura) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
