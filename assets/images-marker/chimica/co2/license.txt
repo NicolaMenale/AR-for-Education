@@ -1,0 +1,11 @@
+Model Information:
+* title:	CO₂
+* source:	https://sketchfab.com/3d-models/co2-2e462545ce944b9a95a8065d9817eb0a
+* author:	decay_dance (https://sketchfab.com/decay_dance)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CO₂" (https://sketchfab.com/3d-models/co2-2e462545ce944b9a95a8065d9817eb0a) by decay_dance (https://sketchfab.com/decay_dance) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
