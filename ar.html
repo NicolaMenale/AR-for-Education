@@ -7,12 +7,7 @@
 </head>
 <body>
 
-<a-scene embedded
-         arjs
-         renderer="logarithmicDepthBuffer: true;"
-         vr-mode-ui="enabled: false"
-         gesture-detector
-         id="scene">
+<a-scene embedded arjs renderer="logarithmicDepthBuffer: true;" vr-mode-ui="enabled: false" gesture-detector id="scene">
 
     <!-- matematica -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/matematica/grafico_xyz/pattern-xyz.patt">
@@ -29,20 +24,20 @@
 
     <!-- chimica -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/chimica/ozone/pattern-o3.patt">
-        <a-entity gltf-model="url(assets/images-marker/chimica/ozone/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/chimica/ozone/sceneo3.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/chimica/h2o/pattern-h2o.patt">
-        <a-entity gltf-model="url(assets/images-marker/chimica/h2o/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/chimica/h2o/sceneh2o.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/chimica/sucrose_molecule/pattern-sucrose.patt">
-        <a-entity gltf-model="url(assets/images-marker/chimica/sucrose_molecule/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/chimica/sucrose_molecule/scenesucrose.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
     <!-- medicina -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/medicina/kidney/pattern-kidney.patt">
-        <a-entity gltf-model="url(assets/images-marker/medicina/kidney/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/medicina/kidney/scenekidney.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/medicina/lungs/pattern-lungs.patt">
