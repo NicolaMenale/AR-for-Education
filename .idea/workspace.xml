@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script_ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script_ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/informatica/cpu_ryzen_5_3600/scene.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/informatica/cpu_ryzen_5_3600/r5scene.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +117,7 @@
       <workItem from="1702165982200" duration="165000" />
       <workItem from="1702166509914" duration="96000" />
       <workItem from="1702200803336" duration="6751000" />
-      <workItem from="1702226378220" duration="1453000" />
+      <workItem from="1702226378220" duration="2102000" />
     </task>
     <task id="LOCAL-00001" summary="Progetto TechWeb">
       <option name="closed" value="true" />
@@ -504,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702207239334</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702227838750</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1702227838750</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
