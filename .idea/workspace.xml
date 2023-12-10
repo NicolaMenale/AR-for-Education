@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb">
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/license.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/scene.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/scene.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/scene.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/scene.gltf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/textures/Male_Anatomy_Pack_Complete_V05Male_Respiratory_System_V05Respiratory_Cricothyroid_Ligament_mat_diffuse.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/textures/Male_Anatomy_Pack_Complete_V05Male_Respiratory_System_V05Respiratoy_Bronchi_mat_diffuse.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/textures/Male_Anatomy_Pack_Complete_V05Male_Respiratory_System_V05Respiratoy_Lung_mat_diffuse.jpeg" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/informatica/b550-motherboard/marker-B550.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/informatica/b550-motherboard/pattern-B550.patt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/informatica/cpu_ryzen_5_3600/marker-R5-3600.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/informatica/cpu_ryzen_5_3600/pattern-R5-3600.patt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/informatica/gpu-rtx-3080/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/informatica/gpu-rtx-3080/marker-rtx3080.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/informatica/gpu-rtx-3080/pattern-rtx3080.patt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/informatica/gpu-rtx-3080/scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/informatica/gpu-rtx-3080/scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/informatica/gpu-rtx-3080/textures/heatsink_fan_baseColor.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/informatica/gpu-rtx-3080/rxt.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/informatica/gpu-rtx-3080/rxt.obj" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +128,7 @@
       <workItem from="1702030358466" duration="24640000" />
       <workItem from="1702165982200" duration="165000" />
       <workItem from="1702166509914" duration="96000" />
-      <workItem from="1702200803336" duration="2462000" />
+      <workItem from="1702200803336" duration="3479000" />
     </task>
     <task id="LOCAL-00001" summary="Progetto TechWeb">
       <option name="closed" value="true" />
@@ -458,7 +466,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702202754436</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702203348476</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1702203348476</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702203859578</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1702203859578</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
