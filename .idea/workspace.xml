@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb">
+      <change beforePath="$PROJECT_DIR$/ar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/marker-co2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/pattern-co2.patt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_PaginaAR.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_PaginaAR.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_PaginaMarcatori.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_PaginaMarcatori.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NicolaMenale&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="de593b7d-34dc-4a59-ac98-6e1b24e72b61" />
+        <option name="url" value="https://github.com/NicolaMenale/TechWeb.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XuQiwBskP6unJne87sKJWaI0z8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nicolamenale/WebstormProjects/TechWeb&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/AR_Principa" />
+      <recent name="$PROJECT_DIR$/elixir" />
+      <recent name="$PROJECT_DIR$/elixir/assets/css" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images-marker" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/AR" />
+      <recent name="$PROJECT_DIR$/elixir/assets/js" />
+      <recent name="$PROJECT_DIR$/AR/textures" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="" />
+      <created>1699476616884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699476616884</updated>
+      <workItem from="1699476619068" duration="1849000" />
+      <workItem from="1699523214148" duration="635000" />
+      <workItem from="1699821415978" duration="2239000" />
+      <workItem from="1699869096160" duration="530000" />
+      <workItem from="1699890407351" duration="220000" />
+      <workItem from="1699890724664" duration="17000" />
+      <workItem from="1700991970595" duration="18132000" />
+      <workItem from="1701794452364" duration="14037000" />
+      <workItem from="1701943643186" duration="8415000" />
+      <workItem from="1701966147537" duration="94000" />
+      <workItem from="1702028959628" duration="1389000" />
+      <workItem from="1702030358466" duration="24640000" />
+      <workItem from="1702165982200" duration="165000" />
+      <workItem from="1702166509914" duration="96000" />
+      <workItem from="1702200803336" duration="582000" />
+    </task>
+    <task id="LOCAL-00001" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1699477701088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699477701088</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1699478159511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699478159511</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1699826935712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699826935712</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1699890530057</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699890530057</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701628028229</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701628028229</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701853676532</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701853676532</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701853745398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701853745398</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701901709259</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701901709259</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701901789643</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701901789643</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701904487974</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701904487974</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701944166467</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701944166467</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701949984654</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701949984654</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701960229380</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701960229380</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701960480064</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701960480064</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701960674781</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701960674781</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1701961347265</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1701961347265</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702029087874</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1702029087874</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702029339160</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1702029339160</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702029889781</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1702029889781</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702054118197</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1702054118197</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702054146546</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1702054146546</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702059378452</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1702059378452</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702127383024</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1702127383024</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702128652670</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1702128652670</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702129415765</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1702129415765</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702136026029</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1702136026029</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702136824865</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1702136824865</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702136850396</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1702136850396</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702156491732</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1702156491732</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702158110837</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1702158110837</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702159448123</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1702159448123</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702162047015</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1702162047015</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702162630301</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1702162630301</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702163024306</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1702163024306</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702164050166</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1702164050166</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702164493647</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1702164493647</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702165176534</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1702165176534</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702165636550</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1702165636550</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702200835974</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1702200835975</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Progetto TechWeb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Progetto TechWeb" />
+  </component>
+</project>

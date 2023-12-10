@@ -1,0 +1,22 @@
+Index: assets/images-marker/chimica/co2/license.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/assets/images-marker/chimica/co2/license.txt b/assets/images-marker/chimica/co2/license.txt
+deleted file mode 100644
+--- a/assets/images-marker/chimica/co2/license.txt	(revision c5ce14f3391c189caa5fbabff7231fa3cf29086a)
++++ /dev/null	(revision c5ce14f3391c189caa5fbabff7231fa3cf29086a)
+@@ -1,11 +0,0 @@
+-Model Information:
+-* title:	CO₂
+-* source:	https://sketchfab.com/3d-models/co2-2e462545ce944b9a95a8065d9817eb0a
+-* author:	decay_dance (https://sketchfab.com/decay_dance)
+-
+-Model License:
+-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+-* requirements:	Author must be credited. Commercial use is allowed.
+-
+-If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+-This work is based on "CO₂" (https://sketchfab.com/3d-models/co2-2e462545ce944b9a95a8065d9817eb0a) by decay_dance (https://sketchfab.com/decay_dance) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+\ No newline at end of file
