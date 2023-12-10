@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb">
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/marker-kidney.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/pattern-kidney.patt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/marker-lungs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/medicina/lungs/pattern-lungs.patt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/medicina/realistic_human_heart/marker-heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/medicina/realistic_human_heart/pattern-heart.patt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/marker-co2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/pattern-co2.patt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_PaginaAR.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_PaginaAR.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_PaginaMarcatori.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_PaginaMarcatori.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +122,7 @@
       <workItem from="1702030358466" duration="24640000" />
       <workItem from="1702165982200" duration="165000" />
       <workItem from="1702166509914" duration="96000" />
-      <workItem from="1702200803336" duration="582000" />
+      <workItem from="1702200803336" duration="1779000" />
     </task>
     <task id="LOCAL-00001" summary="Progetto TechWeb">
       <option name="closed" value="true" />
@@ -434,7 +436,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702200835975</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702201450402</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1702201450402</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702201695791</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1702201695791</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
