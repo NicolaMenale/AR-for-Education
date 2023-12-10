@@ -3,14 +3,24 @@
 <head>
     <script src="aframe.min.js"></script>
     <script src="aframe-ar.js"></script>
+    <script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
 </head>
 <body>
 
-<a-scene embedded arjs>
+<a-scene embedded
+         arjs
+         renderer="logarithmicDepthBuffer: true;"
+         vr-mode-ui="enabled: false"
+         gesture-detector
+         id="scene">
 
     <!-- matematica -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/matematica/grafico_xyz/pattern-xyz.patt">
-        <a-entity gltf-model="url(assets/images-marker/matematica/grafico_xyz/scene.gltf)"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/matematica/grafico_xyz/scene.gltf)"
+                  class="clickable"
+                  gesture-handler="minScale: 0.25; maxScale: 10">
+
+        </a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/matematica/klein_bottle/pattern-klein.patt">
