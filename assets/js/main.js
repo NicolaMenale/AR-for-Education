@@ -50,9 +50,18 @@ container.addEventListener("mouseleave", (e) => {
 });
 
 
-function dwAll(){
-  const e= document.getElementsByClassName("dw")
-  for (let d of e){
+async function dwAll() {
+  const e = document.getElementsByClassName("dw")
+  for (let d of e) {
+    await pause(100);
     d.click()
   }
+}
+
+function pause(msec) {
+  return new Promise(
+      (resolve, reject) => {
+        setTimeout(resolve, msec || 100);
+      }
+  );
 }
