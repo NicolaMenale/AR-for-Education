@@ -5,16 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/h2o/scene.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/h2o/sceneh2o.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/h2o/scene.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/h2o/sceneh2o.gltf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/ozone/scene.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/ozone/sceneo3.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/ozone/scene.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/ozone/sceneo3.gltf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/scene.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/scenesucrose.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/scene.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/scenesucrose.gltf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scene.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scenekidney.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scene.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scenekidney.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/Charcoal_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/Google_Earth_Snapshot1_1_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/Google_Earth_Snapshot1_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/Gray6_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/M_4_1_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/M_4_2_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/M_4_3_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/M_4_4_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/M_4_5_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/M_4_6_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/M_4_7_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/M_4_8_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/M_4_9_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/arch_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/basestone_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/entrance_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/frame1_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/frame2_1_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/frame2_25_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/frame2_2_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/frame2_3_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/frame2_4_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/frame2_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/frame3_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/frame_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/internal_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/material_16_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/material_34_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/material_4_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/material_5_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/material_6_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/material_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/middle_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/profile_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/top_middle_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/textures/window_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/scene.gltf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/scene.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/scene.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/scene.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/scene.gltf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +69,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
