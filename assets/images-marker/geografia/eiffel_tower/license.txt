@@ -1,11 +1,11 @@
 Model Information:
-* title:	Eiffel Tower
-* source:	https://sketchfab.com/3d-models/eiffel-tower-a46d5d536f874eb8acd104e2df26e323
-* author:	Meshick (https://sketchfab.com/meshick)
+* title:	Jacobins Fountain in Lyon, France
+* source:	https://sketchfab.com/3d-models/jacobins-fountain-in-lyon-france-2f5ffec814bb4fcf9c1f6a36e3cf35b5
+* author:	HoangHiepVu (https://sketchfab.com/HoangHiepVu)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Eiffel Tower" (https://sketchfab.com/3d-models/eiffel-tower-a46d5d536f874eb8acd104e2df26e323) by Meshick (https://sketchfab.com/meshick) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Jacobins Fountain in Lyon, France" (https://sketchfab.com/3d-models/jacobins-fountain-in-lyon-france-2f5ffec814bb4fcf9c1f6a36e3cf35b5) by HoangHiepVu (https://sketchfab.com/HoangHiepVu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
