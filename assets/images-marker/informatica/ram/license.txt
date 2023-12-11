@@ -1,0 +1,11 @@
+Model Information:
+* title:	RAM
+* source:	https://sketchfab.com/3d-models/ram-50ca01ea09cf43318b84e176a127bd09
+* author:	T-Art (https://sketchfab.com/person-x)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RAM" (https://sketchfab.com/3d-models/ram-50ca01ea09cf43318b84e176a127bd09) by T-Art (https://sketchfab.com/person-x) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
