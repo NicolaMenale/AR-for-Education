@@ -1,11 +1,8 @@
 Model Information:
-* title:	Kidney Cross-section
-* source:	https://sketchfab.com/3d-models/kidney-cross-section-b59cc02d4e964af7a2c1fcb0001919d8
-* author:	thunderpig (https://sketchfab.com/thunderpig)
+* title:	Model of a human brain
+* source:	https://sketchfab.com/3d-models/model-of-a-human-brain-fc7ae7b989f94c80a50152e71f44e47c
+* author:	Science Museum Group (https://sketchfab.com/sciencemuseum)
 
 Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
-
-If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Kidney Cross-section" (https://sketchfab.com/3d-models/kidney-cross-section-b59cc02d4e964af7a2c1fcb0001919d8) by thunderpig (https://sketchfab.com/thunderpig) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.
