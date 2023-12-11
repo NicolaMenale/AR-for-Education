@@ -4,12 +4,12 @@
     <script src="aframe.min.js"></script>
     <script src="aframe-ar.js"></script>
     <script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
-    <script src="https://cdn.rawgit.com/mrdoob/three.js/r92/examples/js/loaders/GLTFLoader.js"></script>
 </head>
 <body>
 
 <a-scene embedded arjs vr-mode-ui="enabled: false" gesture-detector id="scene">
 
+    <!-- matematica -->
     <!-- matematica -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/matematica/grafico_xyz/pattern-xyz.patt">
         <a-entity gltf-model="url(assets/images-marker/matematica/grafico_xyz/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
@@ -25,20 +25,20 @@
 
     <!-- chimica -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/chimica/ozone/pattern-o3.patt">
-        <a-entity gltf-model="url(assets/images-marker/chimica/ozone/sceneo3.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/chimica/ozone/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/chimica/h2o/pattern-h2o.patt">
-        <a-entity gltf-model="url(assets/images-marker/chimica/h2o/sceneh2o.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/chimica/h2o/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/chimica/sucrose_molecule/pattern-sucrose.patt">
-        <a-entity gltf-model="url(assets/images-marker/chimica/sucrose_molecule/scenesucrose.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/chimica/sucrose_molecule/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
     <!-- medicina -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/medicina/kidney/pattern-kidney.patt">
-        <a-entity gltf-model="url(assets/images-marker/medicina/kidney/scenekidney.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/medicina/kidney/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/medicina/lungs/pattern-lungs.patt">
@@ -54,6 +54,7 @@
         <a-entity gltf-model="url(assets/images-marker/geografia/colosseo_flavian_amphitheatre_-_drone/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10" ></a-entity>
     </a-marker>
 
+    <!--
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/geografia/eiffel_tower/pattern-eiffel.patt">
         <a-entity gltf-model="url(assets/images-marker/geografia/eiffel_tower/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
@@ -61,6 +62,8 @@
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/geografia/empire_state_building/pattern-empireStateBuilding.patt">
         <a-entity gltf-model="url(assets/images-marker/geografia/empire_state_building/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
+    -->
+
 
     <!-- informatica -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/informatica/b550-motherboard/pattern-B550.patt">
@@ -71,9 +74,10 @@
         <a-entity gltf-model="url(assets/images-marker/informatica/cpu_ryzen_5_3600/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
+    <!--
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/informatica/gpu-rtx-3080/pattern-rtx3080.patt">
         <a-entity gltf-model="url(assets/images-marker/informatica/gpu-rtx-3080/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
-    </a-marker>
+    </a-marker>-->
 
     <!-- fisica -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/fisica/boyles_law/pattern-boyle.patt">
@@ -87,6 +91,7 @@
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/fisica/newtons_cradle/pattern-newtonsCradle.patt">
         <a-entity gltf-model="url(assets/images-marker/fisica/newtons_cradle/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
+
 
     <a-entity camera></a-entity>
 </a-scene>
