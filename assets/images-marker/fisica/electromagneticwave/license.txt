@@ -1,0 +1,11 @@
+Model Information:
+* title:	Electromagnetic+Wave
+* source:	https://sketchfab.com/3d-models/electromagneticwave-4f107dafe62345d29b40c8b786e4be54
+* author:	IulianaRomanZG (https://sketchfab.com/IulianaRomanZG)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Electromagnetic+Wave" (https://sketchfab.com/3d-models/electromagneticwave-4f107dafe62345d29b40c8b786e4be54) by IulianaRomanZG (https://sketchfab.com/IulianaRomanZG) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
