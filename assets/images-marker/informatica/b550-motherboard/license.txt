@@ -1,0 +1,11 @@
+Model Information:
+* title:	Motherboard - ASUS AMD B550 Ryzen AM4 Gaming ATX
+* source:	https://sketchfab.com/3d-models/motherboard-asus-amd-b550-ryzen-am4-gaming-atx-55426c57d1d04cc29d3a0031e91a649a
+* author:	Lopllll (https://sketchfab.com/Lopllll)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Motherboard - ASUS AMD B550 Ryzen AM4 Gaming ATX" (https://sketchfab.com/3d-models/motherboard-asus-amd-b550-ryzen-am4-gaming-atx-55426c57d1d04cc29d3a0031e91a649a) by Lopllll (https://sketchfab.com/Lopllll) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
