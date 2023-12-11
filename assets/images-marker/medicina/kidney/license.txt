@@ -1,8 +1,11 @@
 Model Information:
-* title:	Model of a human brain
-* source:	https://sketchfab.com/3d-models/model-of-a-human-brain-fc7ae7b989f94c80a50152e71f44e47c
-* author:	Science Museum Group (https://sketchfab.com/sciencemuseum)
+* title:	Human Brain
+* source:	https://sketchfab.com/3d-models/human-brain-06dd00c44ebd4b4c86475c6c5c33d500
+* author:	RISD Nature Lab (https://sketchfab.com/RISDNaturelab)
 
 Model License:
-* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
-* requirements:	Credit is not mandatory. Commercial use is allowed.
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Human Brain" (https://sketchfab.com/3d-models/human-brain-06dd00c44ebd4b4c86475c6c5c33d500) by RISD Nature Lab (https://sketchfab.com/RISDNaturelab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
