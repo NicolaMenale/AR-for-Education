@@ -5,47 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb">
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_350__Entrance_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Aerial1_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Aerial3_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Aerial4_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Aerial_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Front_WindowsBottom_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Front_Windows_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Name_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_NorthSide1_Centre1_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_NorthSide2_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_NorthSide3_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Roof_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Side1_Windows_Bottom1_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Side1_Windows_Bottom2_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Side1_Windows_Bottom3_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Side1_Windows_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_SideFacadeTexture_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Side_Windows_Bottom1_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Side_Windows_Bottom2_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Side_Windows_Bottom3_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Side_Windows_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Top1_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Top2_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_Top_SingleWindow_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_WestSide1_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_WestSide2_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Building_WestSide_new_1_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Front_Bottom_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Side_Bottom_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Top1_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Top2_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Top_2_baseColor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/Empire_State_Top_Arch_baseColor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/material_21_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/material_24_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/material_26_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/textures/material_30_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/marker-pyramid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/pattern-pyramid.patt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/license.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/scene.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/scene.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/scene.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/geografia/empire_state_building/scene.gltf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/pattern-marker.patt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/pattern-marker.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,22 +122,6 @@
       <workItem from="1702226378220" duration="4099000" />
       <workItem from="1702233148262" duration="1198000" />
       <workItem from="1702246616767" duration="5359000" />
-    </task>
-    <task id="LOCAL-00047" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702206920629</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1702206920629</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702207239334</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1702207239334</updated>
     </task>
     <task id="LOCAL-00049" summary="Progetto TechWeb">
       <option name="closed" value="true" />
@@ -551,7 +499,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702321737884</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702322124777</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1702322124777</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702323598859</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1702323598859</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
