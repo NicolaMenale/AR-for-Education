@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/h2o/sceneh2o.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/h2o/scene.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/h2o/sceneh2o.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/h2o/scene.gltf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/ozone/sceneo3.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/ozone/scene.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/ozone/sceneo3.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/ozone/scene.gltf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/scenesucrose.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/scene.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/scenesucrose.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/chimica/sucrose_molecule/scene.gltf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/fisica/electromagneticwave/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/fisica/electromagneticwave/scene.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/fisica/electromagneticwave/scene.gltf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scenekidney.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scene.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scenekidney.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scene.gltf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scene.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scene.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scene.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/medicina/kidney/scene.gltf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,30 +122,6 @@
       <workItem from="1702226378220" duration="4099000" />
       <workItem from="1702233148262" duration="1198000" />
       <workItem from="1702246616767" duration="5359000" />
-    </task>
-    <task id="LOCAL-00030" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702158110837</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1702158110837</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702159448123</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1702159448123</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702162047015</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1702162047015</updated>
     </task>
     <task id="LOCAL-00033" summary="Progetto TechWeb">
       <option name="closed" value="true" />
@@ -522,7 +491,31 @@
       <option name="project" value="LOCAL" />
       <updated>1702302143845</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702303584312</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1702303584312</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702303652311</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1702303652311</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702304458629</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1702304458629</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
