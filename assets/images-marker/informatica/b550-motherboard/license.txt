@@ -1,0 +1,11 @@
+Model Information:
+* title:	B550 AORUS ELITE V2 model
+* source:	https://sketchfab.com/3d-models/b550-aorus-elite-v2-model-59f6b9b39f5d401b8beee8ff0c28e88e
+* author:	exitmonad (https://sketchfab.com/exitmonad)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "B550 AORUS ELITE V2 model" (https://sketchfab.com/3d-models/b550-aorus-elite-v2-model-59f6b9b39f5d401b8beee8ff0c28e88e) by exitmonad (https://sketchfab.com/exitmonad) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

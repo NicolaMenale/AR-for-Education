@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb">
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/eiffel_tower/eiffel_tower.glb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images-marker/informatica/b550-motherboard/license.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images-marker/informatica/b550-motherboard/scene.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images-marker/informatica/b550-motherboard/scene.gltf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/informatica/b550-motherboard/textures/MATb_baseColor.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/informatica/b550-motherboard/textures/Material.007_baseColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/informatica/b550-motherboard/textures/Material.001_baseColor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images-marker/informatica/b550-motherboard/textures/MotherBoard_baseColor.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,22 +122,6 @@
       <workItem from="1702226378220" duration="4099000" />
       <workItem from="1702233148262" duration="1198000" />
       <workItem from="1702246616767" duration="5359000" />
-    </task>
-    <task id="LOCAL-00024" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702128652670</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1702128652670</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702129415765</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1702129415765</updated>
     </task>
     <task id="LOCAL-00026" summary="Progetto TechWeb">
       <option name="closed" value="true" />
@@ -517,7 +499,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702295317905</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702296557821</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1702296557821</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702296593411</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1702296593411</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
