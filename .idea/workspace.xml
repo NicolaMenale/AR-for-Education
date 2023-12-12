@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb">
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/textures/01_-_Default_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/textures/01_-_Default_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/textures/02_-_Default_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/textures/03_-_Default_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/textures/03_-_Default_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/textures/07_-_Default_baseColor.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/license.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/scene.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/scene.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/scene.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/scene.gltf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images-marker/geografia/pyramid/textures/mat-0_baseColor.jpeg" beforeDir="false" />
-    </list>
+    <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,15 +116,7 @@
       <workItem from="1702226378220" duration="4099000" />
       <workItem from="1702233148262" duration="1198000" />
       <workItem from="1702246616767" duration="5359000" />
-      <workItem from="1702396525325" duration="2988000" />
-    </task>
-    <task id="LOCAL-00054" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702234011686</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1702234011686</updated>
+      <workItem from="1702396525325" duration="3373000" />
     </task>
     <task id="LOCAL-00055" summary="Progetto TechWeb">
       <option name="closed" value="true" />
@@ -522,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702398818697</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702400729217</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1702400729217</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
