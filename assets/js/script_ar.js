@@ -6,13 +6,9 @@ markers.forEach(function(marker) {
         isMarkerVisible = true;
         window.parent.postMessage(marker.id, '*');
     });
-
-    marker.addEventListener("markerLost", function (event) {
-        console.log("Marker lost: " + marker.id);
-        isMarkerVisible = false;
-        window.parent.postMessage(marker.id, '*');
-    });
 });
+
+
 
 function handleScale(event) {
     if (isMarkerVisible) {
