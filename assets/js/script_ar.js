@@ -1,27 +1,20 @@
+// Select all 'a-marker' elements on the page
 var markers = document.querySelectorAll("a-marker");
-let         isMarkerVisible;
+
+// Variable to track whether the marker is currently visible
+let isMarkerVisible;
+
+// Iterate over each 'a-marker' element
 markers.forEach(function(marker) {
+    // Add an event listener for the "markerFound" event
     marker.addEventListener("markerFound", function (event) {
+        // Log that the marker is found along with its ID
         console.log("Marker found: " + marker.id);
+
+        // Set the marker visibility flag to true
         isMarkerVisible = true;
+
+        // Post a message to the parent window with the marker ID
         window.parent.postMessage(marker.id, '*');
     });
 });
-
-
-
-function handleScale(event) {
-    if (isMarkerVisible) {
-        this.scaleFactor *=
-            1 + event.detail.spreadChange / event.detail.startSpread;
-
-        this.scaleFactor = Math.min(
-            Math.max(this.scaleFactor, this.data.minScale),
-            this.data.maxScale
-        );
-
-        el.object3D.scale.x = scaleFactor * initialScale.x;
-        el.object3D.scale.y = scaleFactor * initialScale.y;
-        el.object3D.scale.z = scaleFactor * initialScale.z;
-    }
-}

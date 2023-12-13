@@ -2,60 +2,102 @@
 <html lang="en">
 
 <head>
+    <!-- Meta tags for character set and viewport -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Title of the page -->
     <title>ArForEducation</title>
+    <!-- External CSS stylesheets -->
+    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
+    <!-- The Bootstrap CSS stylesheet is included to provide styling and layout components.
+         It is a popular front-end framework that enhances the overall appearance and responsiveness of the website.
+         Learn more: https://getbootstrap.com/ -->
+
+    <!-- Remixicon CSS -->
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <!-- The Remixicon CSS stylesheet is included to provide a set of icons for the website.
+         Remixicon is a library of high-quality, customizable, and open-source icons.
+         Learn more: https://remixicon.com/ -->
+
+    <!-- Fancybox CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css">
+    <!-- The Fancybox CSS stylesheet is included to enable image zoom functionality.
+         Fancybox is a tool used for creating modal windows, lightboxes, and interactive image galleries.
+         Learn more: https://fancyapps.com/fancybox/3/ -->
+
+    <!-- AOS (Animate On Scroll) CSS -->
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <!-- The AOS CSS stylesheet is included to provide scroll animations for elements on the page.
+         AOS is a library that animates elements as they become visible during scrolling.
+         Learn more: https://michalsnik.github.io/aos/ -->
+
+    <!-- Custom Style CSS -->
     <link rel="stylesheet" href="assets/css/style_PaginaAR.css">
+    <!-- The custom style.css file is included to provide additional, project-specific styling.
+         It contains custom styles for elements not covered by Bootstrap or other external libraries.
+         Custom styles are defined based on the project's design requirements. -->
 
+    <!-- Google Fonts (Poppins) -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+    <!-- Google Fonts (Poppins): External font for a consistent and visually appealing typography -->
 
+    <!-- Viewport settings for responsive design -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+    <!--Viewport meta tag: Ensures proper rendering and scaling on different devices. -->
 </head>
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
-    <!-- NAVBAR -->
-    <nav class="navbar navbar-expand-lg bg-white sticky-top" data-aos="false">
-        <div class="container">
-            <a class="navbar-brand" href="index.html">
-                <img src="./assets/images/logo-no-background.png" alt="">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#hero">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="index_PaginaMarcatori.html">Scarica i Marcatori</a>
-                    </li>
-                </ul>
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg bg-white sticky-top">
+    <div class="container">
 
-            </div>
+        <!-- Brand logo -->
+        <a class="navbar-brand" href="#">
+            <img src="./assets/images/logo-no-background.png" alt="">
+        </a>
+
+        <!-- Navbar toggle button for small screens -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Navbar links and navigation menu -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+
+                <!-- Navigation links -->
+                <li class="nav-item">
+                    <a class="nav-link" href="#hero">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#services">Scarica i Marcatori</a>
+                </li>
+            </ul>
         </div>
-    </nav>
+    </div>
+</nav>
 
     <!-- AR -->
     <section id="hero">
         <div class="container" id="containerAR">
-        <iframe class="responsive-iframe" src="ar.html"></iframe>
+            <!-- Embedding an AR content using an iframe -->
+            <iframe class="responsive-iframe" src="ar.html"></iframe>
         </div>
     </section>
 
+<!-- Section with all markers description -->
     <section id="services" class="section-padding border-top">
         <div class="container">
 
             <div class="row g-4 text-center">
                 <div class="col-lg-12" data-aos="fade-down" data-aos-delay="150">
                     <div class="service theme-shadow p-lg-5 p-4">
+                        <!-- Marker n (from 1 to 18)
+                             Description related to Marker n (from 1 to 18) -->
+
                         <div id="marker1">
                             <p>
                                 Questo grafico fa riferimento a un sistema di coordinate tridimensionale utilizzato per rappresentare dati o informazioni nello spazio tridimensionale.
@@ -263,14 +305,14 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row gy-5">
+                    <!-- Footer top section with logo, project slogan, and social icons -->
+                    <!-- Includes information about the project and social media links -->
                     <div class="col-lg-3 col-sm-6">
                         <a href="#"><img src="./assets/images/logo-color-3-2.png" alt=""></a>
                         <div class="line"></div>
                         <p>I limiti sono fatti per essere superati!</p>
                         <div class="social-icons">
-
                             <a href="https://github.com/NicolaMenale/AR-for-Education"><i class="ri-github-fill"></i></a>
-
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6">
@@ -278,8 +320,6 @@
                         <div class="line"></div>
                         <ul>
                             <li> Tecnologia Realtà Aumentata</li>
-
-
                         </ul>
                     </div>
                     <div class="col-lg-3 col-sm-6">
@@ -307,6 +347,7 @@
         <div class="footer-bottom">
             <div class="container">
                 <div class="row g-4 justify-content-between">
+                    <!-- Footer bottom section with copyright information -->
                     <div class="col-auto">
                         <p class="mb-0">© Copyright AR FOR EDUCATION. All Rights Reserved</p>
                     </div>
@@ -317,14 +358,21 @@
     </footer>
 
 
+    <!-- JavaScript libraries and custom scripts -->
 
-
-
+    <!-- Bootstrap JavaScript library
+         Provides pre-built components and utilities for building responsive websites. -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- FancyApps UI JavaScript library (Fancybox for modal windows)
+         Adds functionality for modal windows (pop-ups) with a focus on image galleries. -->
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+
+    <!-- AOS (Animate On Scroll) library for scroll animations
+         Library for adding scroll-based animations to elements. -->
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+    <!-- Custom JavaScript file -->
     <script src="assets/js/main.js"></script>
     <script src="assets/js/script_index.js"></script>
-
-
 </body>

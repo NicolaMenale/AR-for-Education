@@ -2,14 +2,42 @@
 <html lang="en">
 
 <head>
+    <!-- Meta tags for character set and viewport -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Title of the page -->
     <title>ArForEducation</title>
+
+    <!-- External CSS stylesheets -->
+    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
+    <!-- The Bootstrap CSS stylesheet is included to provide styling and layout components.
+         It is a popular front-end framework that enhances the overall appearance and responsiveness of the website.
+         Learn more: https://getbootstrap.com/ -->
+
+    <!-- Remixicon CSS -->
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <!-- The Remixicon CSS stylesheet is included to provide a set of icons for the website.
+         Remixicon is a library of high-quality, customizable, and open-source icons.
+         Learn more: https://remixicon.com/ -->
+
+    <!-- Fancybox CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css">
+    <!-- The Fancybox CSS stylesheet is included to enable image zoom functionality.
+         Fancybox is a tool used for creating modal windows, lightboxes, and interactive image galleries.
+         Learn more: https://fancyapps.com/fancybox/3/ -->
+
+    <!-- AOS (Animate On Scroll) CSS -->
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <!-- The AOS CSS stylesheet is included to provide scroll animations for elements on the page.
+         AOS is a library that animates elements as they become visible during scrolling.
+         Learn more: https://michalsnik.github.io/aos/ -->
+
+    <!-- Custom Style CSS -->
     <link rel="stylesheet" href="./assets/css/style.css">
+    <!-- The custom style.css file is included to provide additional, project-specific styling.
+         It contains custom styles for elements not covered by Bootstrap or other external libraries.
+         Custom styles are defined based on the project's design requirements. -->
 </head>
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
@@ -17,15 +45,23 @@
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg bg-white sticky-top">
         <div class="container">
+
+            <!-- Brand logo -->
             <a class="navbar-brand" href="#">
                 <img src="./assets/images/logo-no-background.png" alt="">
             </a>
+
+            <!-- Navbar toggle button for small screens -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
+
+            <!-- Navbar links and navigation menu -->
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
+
+                    <!-- Navigation links -->
                     <li class="nav-item">
                         <a class="nav-link" href="#hero">Home</a>
                     </li>
@@ -38,23 +74,26 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#info">Info</a>
                     </li>
+
                 </ul>
-               
             </div>
         </div>
     </nav>
 
-    <!-- HERO -->
+    <!-- HERO SECTION-->
     <section id="hero" class="min-vh-100 d-flex align-items-center text-center">
         <div class="container">
             <div class="row">
                 <div class="col-12">
+
+                    <!-- Hero title with animation effects -->
                     <h1 data-aos="fade-left" class="text-uppercase text-white fw-semibold display-1">WELCOME TO <BR>AR  FOR  EDUCATION</BR></h1>
-                     <div data-aos="fade-up" data-aos-delay="50">
+
+                    <!-- Hero buttons with animation effects -->
+                    <div data-aos="fade-up" data-aos-delay="50">
                         <a href="index_PaginaAR.html" class="btn btn-brand me-2">AR</a>
                         <a href="index_PaginaMarcatori.html" class="btn btn-light ms-2">SCARICA MARCATORI</a>
                      </div>
-                   
                 </div>
             </div>
         </div>
@@ -65,6 +104,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
+
+                    <!-- Section title for services -->
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold">DISCIPLINE</h1>
                         <div class="line"></div>
@@ -73,6 +114,11 @@
                 </div>
             </div>
             <div class="row g-4 text-center">
+
+                <!-- Individual service items with images and buttons
+                     Each service has a title, an image, and a "VAI AL DOWNLOAD" button
+                     "VAI AL DOWNLOAD"buttons redirects to specific sections on the download page
+                     Each service is animated with fade-down effects -->
                 <div class="col-lg-4 col-sm-6" data-aos="fade-down" data-aos-delay="150">
                     <div class="service theme-shadow p-lg-5 p-4">
                         <img src="./assets/images/3700465-business-calculating-calculator-finance-maths-technological_108748.ico" >
@@ -149,6 +195,10 @@
     <section id="counter" class="section-padding">
         <div class="container text-center">
             <div class="row g-4">
+
+                <!-- Counter section with statistics
+                     Each counter box displays a statistic
+                     Each box is animated with fade-down effects -->
                 <div class="col-lg-3 col-sm-6" data-aos="fade-down" data-aos-delay="150">
                     <h1 class="text-white display-4">100,000+</h1>
                     <h6 class="text-uppercase mb-0 text-white mt-3"> Downloads</h6>
@@ -174,28 +224,30 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
+                    <!-- Section title for the "CHI SIAMO" (Who We Are) -->
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold">CHI SIAMO</h1>
                         <div class="line"></div>
+                        <!-- Description of the project and its goals -->
                         <span>Il nostro progetto nasce dal principio di voler migliorare le capacità di apprendimento multidisciplinare ,
                             fino ad ottenere un incremento dell' utilizzo celebrale del 75%.Tutto ciò avviene grazie alla tecnologia AR.
                             La tecnologia AR ha la capacità di rendere in modello 3d tutto ciò che può essere difficilmente visualizzato in una classe,
                              al computer e nella mente degli studenti. Il contenuto, astratto e difficile, in questo modo diventa visibile ed interattivo ,
                               quindi fornisce una migliore comprensione degli argomenti della lezione. Da ciò possiamo dedurre come possiamo sfruttare al massimo 
                               le nostre potenzialità, senza rimanere vincolati all' uso del solo 30% con il classico sistema leggere e ripetere.
-                            
                             </span>
                     </div>
                 </div>
             </div>
             <div class="row">
+                <!-- Team members with images and zoom effects
+                     Each team member's image is displayed with a zoom effect
+                     Example images of team members are included -->
                 <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
                     <div class="team-member image-zoom">
                         <div class="image-zoom-wrapper">
                             <img src="./assets/images/AR-App-per-educazione-online-2.jpg" alt="">
                         </div>
-                       
-                     
                         
                     </div>
                 </div>
@@ -204,7 +256,6 @@
                         <div class="image-zoom-wrapper">
                             <img src="./assets/images/foto1 Realta aumentata 01.10.202.jpg" alt="">
                         </div>
-                  
                        
                     </div>
                 </div>
@@ -213,8 +264,6 @@
                         <div class="image-zoom-wrapper">
                             <img src="./assets/images/AR_Car.webp" alt="">
                         </div>
-                       
-                        
                     </div>
                 </div>
             </div>
@@ -226,14 +275,14 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row gy-5">
+                    <!-- Footer top section with logo, project slogan, and social icons -->
+                    <!-- Includes information about the project and social media links -->
                     <div class="col-lg-3 col-sm-6">
                         <a href="#"><img src="./assets/images/logo-color-3-2.png" alt=""></a>
                         <div class="line"></div>
                         <p>I limiti sono fatti per essere superati!</p>
                         <div class="social-icons">
-                         
                             <a href="https://github.com/NicolaMenale/AR-for-Education"><i class="ri-github-fill"></i></a>
-                       
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6">
@@ -241,8 +290,6 @@
                         <div class="line"></div>
                         <ul>
                             <li> Tecnologia Realtà Aumentata</li>
-                          
-                         
                         </ul>
                     </div>
                     <div class="col-lg-3 col-sm-6">
@@ -270,6 +317,7 @@
         <div class="footer-bottom">
             <div class="container">
                 <div class="row g-4 justify-content-between">
+                    <!-- Footer bottom section with copyright information -->
                     <div class="col-auto">
                         <p class="mb-0">© Copyright AR FOR EDUCATION. All Rights Reserved</p>
                     </div>
@@ -279,8 +327,19 @@
         </div>
     </footer>
 
+    <!-- JavaScript libraries and custom scripts -->
+    <!-- Bootstrap JavaScript library
+         Provides pre-built components and utilities for building responsive websites. -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- FancyApps UI JavaScript library (Fancybox for modal windows)
+         Adds functionality for modal windows (pop-ups) with a focus on image galleries. -->
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+
+    <!-- AOS (Animate On Scroll) library for scroll animations
+         Library for adding scroll-based animations to elements. -->
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+    <!-- Custom JavaScript file -->
     <script src="./assets/js/main.js"></script>
 </body>

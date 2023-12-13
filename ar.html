@@ -1,17 +1,32 @@
 <!DOCTYPE html>
 <html lang="en" >
+
 <head>
+    <!-- Include A-Frame library
+         A web framework for building virtual reality (VR) experiences -->
     <script src="aframe.min.js"></script>
+
+    <!-- Include AR.js library for Augmented Reality
+         Extends A-Frame to enable augmented reality (AR) experiences on the web -->
     <script src="aframe-ar.js"></script>
+
+    <!-- Include gestures.js for handling gestures in AR
+         A library for handling gestures in AR, enhancing the interactivity with the AR scene -->
     <script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
 </head>
-<body>
 
+<body>
+<!-- A-Frame scene with AR settings and gesture detector -->
 <a-scene embedded arjs vr-mode-ui="enabled: false" gesture-detector id="scene">
 
-    <!-- matematica -->
+    <!-- Every marker have a url redirecting to the patter (.patt) file save in the GitHub
+         One thing to notice is that in the ar.js documentation it is said that you can save
+         the .patt locally; however, this does not seem to work (the other option is to use a raw.githubusercontent)
+         The gltf-model is the ar model that can be saved locally -->
+
+    <!-- Matematica markers -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/matematica/grafico_xyz/pattern-xyz.patt" id="marker1">
-        <a-entity gltf-model="url(assets/images-marker/matematica/grafico_xyz/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/matematica/grafico_xyz/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10" scale="5 5 5"></a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/matematica/klein_bottle/pattern-klein.patt" id="marker2">
@@ -22,7 +37,7 @@
         <a-entity gltf-model="url(assets/images-marker/matematica/sinus_curve/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
-    <!-- chimica -->
+    <!-- Chimica markers -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/chimica/ozone/pattern-o3.patt" id="marker4">
         <a-entity gltf-model="url(assets/images-marker/chimica/ozone/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
@@ -35,20 +50,20 @@
         <a-entity gltf-model="url(assets/images-marker/chimica/sucrose_molecule/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
-    <!-- medicina -->
+    <!-- Medicina markers -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/medicina/stomach/pattern-stomach.patt" id="marker7">
-        <a-entity gltf-model="url(assets/images-marker/medicina/stomach/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/medicina/stomach/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10" scale="5 5 5"></a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/medicina/lungs/pattern-lungs.patt" id="marker8">
-        <a-entity gltf-model="url(assets/images-marker/medicina/lungs/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/medicina/lungs/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10" scale="5 5 5"></a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/medicina/realistic_human_heart/pattern-heart.patt" id="marker9">
         <a-entity gltf-model="url(assets/images-marker/medicina/realistic_human_heart/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
-    <!-- geografia -->
+    <!-- Geografia markers -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/geografia/colosseo_flavian_amphitheatre_-_drone/pattern-coliseum.patt" id="marker10">
         <a-entity gltf-model="url(assets/images-marker/geografia/colosseo_flavian_amphitheatre_-_drone/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10" ></a-entity>
     </a-marker>
@@ -61,9 +76,9 @@
         <a-entity gltf-model="url(assets/images-marker/geografia/pyramid/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10" ></a-entity>
     </a-marker>
 
-    <!-- informatica -->
+    <!-- Informatica markers -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/informatica/ram/pattern-ram.patt" id="marker13">
-        <a-entity gltf-model="url(assets/images-marker/informatica/ram/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10" scale="0.2 0.2 0.2"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/informatica/ram/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/informatica/cpu_ryzen_5_3600/pattern-R5-3600.patt" id="marker14">
@@ -71,10 +86,10 @@
     </a-marker>
 
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/informatica/gpu-rtx-3080/pattern-rtx3080.patt" id="marker15">
-        <a-entity gltf-model="url(assets/images-marker/informatica/gpu-rtx-3080/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
+        <a-entity gltf-model="url(assets/images-marker/informatica/gpu-rtx-3080/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10" scale="5 5 5"></a-entity>
     </a-marker>
 
-    <!-- fisica -->
+    <!-- Fisica markers -->
     <a-marker type="pattern" preset="pattern" url="https://raw.githubusercontent.com/NicolaMenale/AR-for-Education/main/assets/images-marker/fisica/boyles_law/pattern-boyle.patt" id="marker16">
         <a-entity gltf-model="url(assets/images-marker/fisica/boyles_law/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
@@ -87,8 +102,11 @@
         <a-entity gltf-model="url(assets/images-marker/fisica/newtons_cradle/scene.gltf)" class="clickable" gesture-handler="minScale: 0.25; maxScale: 10"></a-entity>
     </a-marker>
 
+    <!-- Camera entity for the AR scene -->
     <a-entity camera></a-entity>
 </a-scene>
+
+<!-- Include custom JavaScript file for additional AR scene functionality -->
 <script src="assets/js/script_ar.js"></script>
 </body>
 </html>

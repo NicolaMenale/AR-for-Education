@@ -50,14 +50,22 @@ container.addEventListener("mouseleave", (e) => {
 });
 
 
+// Asynchronous function to click all elements with the class "dw"
 async function dwAll() {
-  const e = document.getElementsByClassName("dw")
-  for (let d of e) {
+  // Get all elements with the class "dw"
+  const elements = document.getElementsByClassName("dw");
+
+  // Loop through each element
+  for (let element of elements) {
+    // Pause for 100 milliseconds before clicking the next element
     await pause(100);
-    d.click()
+
+    // Simulate a click on the current element
+    element.click();
   }
 }
 
+// Helper function to pause execution for a specified number of milliseconds
 function pause(msec) {
   return new Promise(
       (resolve, reject) => {
