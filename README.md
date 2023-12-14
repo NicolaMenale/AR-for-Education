@@ -1,4 +1,5 @@
 ![Alt text](assets/images/logo-color-3-2.png "Logo Ar-for-Education")
+
 Ar-for-Educatoin is a Progressive Web App made by Nicola Menale and Giulio Simpatico for the project of Web Technologies (University of Naples Parthenope).
 
 The purpose of this augmented reality (AR) application is to create a tool that helps students study, comprehend and visualizing differenet topic across various subjects.
