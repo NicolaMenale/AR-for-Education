@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66737250-fc31-49db-9c2b-18df591f722b" name="Changes" comment="Progetto TechWeb">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_PaginaAR.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_PaginaAR.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_PaginaMarcatori.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_PaginaMarcatori.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,31 +123,7 @@
       <workItem from="1702246616767" duration="5359000" />
       <workItem from="1702396525325" duration="7135000" />
       <workItem from="1702468722597" duration="9672000" />
-      <workItem from="1702573901490" duration="365000" />
-    </task>
-    <task id="LOCAL-00059" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702248721078</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1702248721078</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702249111584</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1702249111584</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Progetto TechWeb">
-      <option name="closed" value="true" />
-      <created>1702249314243</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1702249314243</updated>
+      <workItem from="1702573901490" duration="1363000" />
     </task>
     <task id="LOCAL-00062" summary="Progetto TechWeb">
       <option name="closed" value="true" />
@@ -516,7 +493,31 @@
       <option name="project" value="LOCAL" />
       <updated>1702511433042</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702574395460</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1702574395461</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702574538487</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1702574538487</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Progetto TechWeb">
+      <option name="closed" value="true" />
+      <created>1702574570545</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1702574570545</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
