@@ -1,0 +1,37 @@
+{
+  "manifest_version": 1,
+  "version": "1.0.0",
+  "name": "AR for Education",
+  "short_name": "AR Edu",
+  "description": "Piattaforma di apprendimento AR per varie discipline educative",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3498db",
+  
+  "icons": [
+    {
+            "src": "assets/images/android-icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+             "purpose": "any maskable"
+        },
+        {
+            "src": "assets/images/apple-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/images/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+  ],
+  
+  "categories": ["education"],
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "any",
+}
