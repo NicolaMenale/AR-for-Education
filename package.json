@@ -1,0 +1,20 @@
+{
+  "name": "ar-for-education",
+  "version": "1.0.0",
+  "description": "An augmented reality application for education purposes.",
+  "main": "aframe-ar.js",
+  "scripts": {
+      "start": "http-server",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolaMenale/AR-for-Education.git"
+  },
+  "author": "Nicola Menale, Giulio Simpatico",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NicolaMenale/AR-for-Education.git"
+  },
+  "homepage": "https://github.com/NicolaMenale/AR-for-Education#readme"
+}
