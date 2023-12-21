@@ -13,7 +13,7 @@ link al sito: https://techweb.rikys.dev
 
 ## Usage
 1. Start the application: `npm start`
-2. Open your browser and go to [http://localhost:3000](http://localhost:3000)
+2. Open your browser and go to the http-server that is beign shown in your terminal (ex.   http://127.0.0.1:8080)
 
 ## Markers
 Make sure to use the markers provided in their respective sections of the application for an optimal AR experience.
