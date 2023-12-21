@@ -7,7 +7,7 @@ AR (Augmented Reality) technology has the capability to transform abstract and c
 link al sito: https://techweb.rikys.dev
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/tuoutro/AR-for-Education.git`
+1. Clone the repository: `git clone https://github.com/NicolaMenale/AR-for-Education.git`
 2. Navigate to the project directory: `cd AR-for-Education`
 3. Install dependencies: `npm install`
 
