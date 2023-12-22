@@ -17,6 +17,7 @@ link to the website: https://techweb.rikys.dev
 
 ## Markers
 Make sure to use the markers provided in their respective sections of the application for an optimal AR experience.
+To create new marker: https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
 
 ## License
 This project is distributed under the [Apache 2.0 license](LICENSE.md).
