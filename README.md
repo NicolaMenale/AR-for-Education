@@ -4,7 +4,7 @@ Ar-for-Educatoin is a Progressive Web App made by Nicola Menale and Giulio Simpa
 
 AR (Augmented Reality) technology has the capability to transform abstract and complex concepts into interactive 3D models that are challenging to visualize in a traditional classroom setting, on a computer, or in the minds of students. This application aims to provide a tool that supports students in studying, comprehending, and visualizing diverse topics across various subjects. The integration of this technology enhances the visibility and interactivity of abstract content, facilitating a better understanding of lesson topics.
 
-link al sito: https://techweb.rikys.dev
+link to the website: https://techweb.rikys.dev
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/NicolaMenale/AR-for-Education.git`
